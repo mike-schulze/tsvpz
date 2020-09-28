@@ -28,7 +28,7 @@ if (!Configure::read('debug')) :
     );
 endif;
 
-$cakeDescription = 'CakePHP: the rapid development PHP framework';
+$cakeDescription = 'CakePHP: the rapid development PHP framework - TSV PZ';
 ?>
 <!DOCTYPE html>
 <html>
